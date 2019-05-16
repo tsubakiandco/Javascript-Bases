@@ -1,0 +1,16 @@
+body {
+ font-family: 'Lora', serif;
+ font-weight: 100;
+}
+
+p.font {
+   font-family: 'Open Sans', sans-serif;
+    }
+a {
+	color: black;
+	text-decoration: none;
+}
+a:hover {background-color: gold;}
+a:visited {color: hotpink;}
+a:visited:hover {background-color:lavender}
+

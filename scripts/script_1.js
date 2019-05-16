@@ -6,7 +6,10 @@ while (true) {
 
     if (name.length > 0) {
         //console.log(name) pour verifier le name
-        break
+        break;
     }
+    else
+    	alert("Bah? Un petit blaze de rien du tout, siouplé ");
+
 }
 console.log(`Bien le bonjour, ${name}!`);
