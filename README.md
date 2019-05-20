@@ -14,4 +14,4 @@ Sous Mac : ALT + CMD + I
 ```
 
 Sinon on peut tester en production vers ce lien!
-https://tsubakiandco.github.io/Javascript-Bases/
+https://tsubakiandco.github.io/Javascript-Bases/index.html
